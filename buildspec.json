@@ -33,16 +33,18 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.obs-plugintemplate"
+            "bundleId": "com.example.patreon-plugin-obs"
         }
     },
-    "name": "obs-plugintemplate",
-    "displayName": "OBS Plugin Template",
+    "name": "patreon-plugin-obs",
+    "displayName": "OBS Patreon Plugin",
     "version": "1.0.0",
-    "author": "Your Name Here",
+    "author": "Dashi.S",
     "website": "https://example.com",
-    "email": "me@example.com",
+    "email": "danischadenberg@gmail.com",
     "uuids": {
-        "windowsApp": "00000000-0000-0000-0000-000000000000"
+        "macosPackage": "BB5B6D3A-FAD3-4AFD-BDEF-C2C290DD5E15",
+        "macosInstaller": "0796848F-63A6-4FDB-84ED-6CE8238ADF0A",
+        "windowsApp": "7f125f90-87b9-42e5-8eff-84ca454074c5"
     }
 }
